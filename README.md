@@ -77,29 +77,29 @@ Open the app in your browser at: http://localhost:5173
 
 ### 📂 Folder Structure
 
-```pgsql
+```bash
 storage-management-solution/
-├── .idea/ # IDE settings (optional)
-├── app/ # App router (Next.js 13+)
-├── components/ # Reusable UI components
-├── constants/ # Constant variables (routes, config, etc.)
-├── hooks/ # Custom React hooks
-├── lib/ # Utility functions and libs
-├── public/ # Static files like images and icons
-├── types/ # TypeScript types
-├── .env.example # Example environment variables
-├── .eslintrc.json # ESLint config
-├── .gitignore # Git ignored files
-├── components.json # ShadCN / CLI UI config
-├── next.config.ts # Next.js configuration
-├── package.json # Project dependencies and scripts
-├── package-lock.json # Lockfile for npm
-├── postcss.config.mjs # PostCSS configuration
-├── tailwind.config.ts # Tailwind CSS configuration
-├── tsconfig.json # TypeScript compiler configuration
-└── README.md # Project overview and setup guide
-```
+├── .idea/                  # IDE settings (optional)
+├── app/                   # App router (Next.js 13+)
+├── components/            # Reusable UI components
+├── constants/             # Constant variables (routes, config, etc.)
+├── hooks/                 # Custom React hooks
+├── lib/                   # Utility functions and libs
+├── public/                # Static files like images and icons
+├── types/                 # TypeScript types
+├── .env.example           # Example environment variables
+├── .eslintrc.json         # ESLint config
+├── .gitignore             # Git ignored files
+├── components.json        # ShadCN / CLI UI config
+├── next.config.ts         # Next.js configuration
+├── package.json           # Project dependencies and scripts
+├── package-lock.json      # Lockfile for npm
+├── postcss.config.mjs     # PostCSS configuration
+├── tailwind.config.ts     # Tailwind CSS configuration
+├── tsconfig.json          # TypeScript compiler configuration
+├── README.md              # Project overview and setup guide
 
+```
 ## 👩‍💻 About Me
 
 **Tejaswini Mohapatra** — CSE Undergrad | Frontend Enthusiast 💙
