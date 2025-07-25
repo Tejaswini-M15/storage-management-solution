@@ -84,10 +84,15 @@ storage-management-solution/
 └── README.md
 ```
 
-## 🙋‍♀️ Author
-Tejaswini Mohapatra
-🔗 GitHub Profile
+## 👩‍💻 About Me
 
+**Tejaswini Mohapatra** — CSE Undergrad | Frontend Enthusiast 💙
+
+- 🐙 GitHub: [@Tejaswini-M15](https://github.com/Tejaswini-M15)
+- 💼 LinkedIn: [Tejaswini Mohapatra](https://www.linkedin.com/in/tejaswinim15)
+
+> If you found this project interesting, feel free to ⭐ star the repo and connect with me!
+---
 
 
 
